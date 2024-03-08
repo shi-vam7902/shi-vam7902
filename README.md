@@ -1,6 +1,13 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Shivam Shah and I'm currently persuing MSC'IT From Daiict Gandhinagar <br>GLS 23' && MSCIT 25'</h2>
+<h2 align="left">Hi 👋! My name is Shivam Shah and I'm currently pursuing MSC'IT From Daiict Gandhinagar <br>GLS 23' && MSCIT 25'</h2>
+
+###
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning <br>🎯 Goals: SDE/Full Stack Developer<br>🎲 Fun fact: Its always fun about</p>
 
 ###
 
