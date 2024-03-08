@@ -1,7 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Shivam Shah and I'm currently pursuing MSC'IT From Daiict Gandhinagar <br>GLS 23' && MSCIT 25'</h2>
-
+<h2 align="left">👋 Hey there! I'm Shivam Shah, a passionate learner on a journey through the MSC'IT program at DAIICT Gandhinagar.<br> As a member of GLS 23 and now MSCIT 25,<br> I'm constantly exploring the realms of technology, pushing boundaries, and expanding my horizons
 ###
 <h2 align="left">About me</h2>
 
